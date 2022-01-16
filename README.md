@@ -6,7 +6,7 @@
 + La API se creo con el framework [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 + La conexion a la base de datos se logra 
     con la libreria [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/).
-+ Para las pruebas unitarias se utilizo la libreria [Unitest](https://pypi.org/project/unittest2/) y la aplicacion Postman.    
++ Para las pruebas unitarias se utilizo la libreria [Unittest](https://pypi.org/project/unittest2/) y la aplicacion Postman.    
 
 ## Prerequisitos
 
